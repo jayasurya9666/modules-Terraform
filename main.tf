@@ -117,5 +117,4 @@ ingress {
 
 
 
-   # access_key = "AKIA2O3EDZYGOBHFSGW3"
-   #secret_key = "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"
+   
